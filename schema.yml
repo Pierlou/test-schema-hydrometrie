@@ -1,8 +1,8 @@
-title: "Produits"
-description : "Spécification du schéma de données Produits"
-homepage: "https://github.com/datagouv/jsonschema-template"
+title: "Hydrométrie"
+description : "Spécification du schéma de données du Sandre pour l'hydrométrie"
+homepage: "https://github.com/Pierlou/test-schema-hydrometrie"
 
 schemas:
   -
-    path: "product.json"
-    title: "Produits"
+    path: "sandre-hydrometrie.json"
+    title: "Hydrométrie"
